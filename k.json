@@ -1,0 +1,96 @@
+[
+   
+    {
+        "question": "Did you generate a novel concept for your business idea?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    
+        
+    },
+    {
+        "question": "Did you conduct a proof of concept to validate your idea's feasibility?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },    
+    {
+        "question": "Did you create a pitch deck to present your business idea to potential stakeholders?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },    
+    {
+        "question": "Did you design the workflow for your product or service?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },    
+    {
+        "question": "Did you create a prototype design to visualize your product/service?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you obtain copyright or patent protection for your innovation?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you develop a prototype of your product/service?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you conduct market research to understand your target audience?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you analyze the market to identify opportunities and threats?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you register your company legally?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you implement your business idea on a small scale?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you gather feedback from customers through reviews and surveys?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you incorporate the suggested changes based on customer feedback?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "Did you prepare an investor pitch deck to attract funding?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "question": "15. Did you secure funds from investors, angel investors, venture capital, or grants?",
+        "information": "...",
+        "options": ["YES", "NO"],
+        "answer": "YES"
+    }
+]
+
